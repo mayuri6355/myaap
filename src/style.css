@@ -1,0 +1,8 @@
+
+
+.header_wrap:not([class*="bg_"]):not([class*="bg-"]) {
+    background-color: #fff;
+}
+.header_wrap {
+    transition: all 0.5s ease 0s;
+}
